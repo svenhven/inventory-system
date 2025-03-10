@@ -1,0 +1,53 @@
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Rust specific
+/target/
+/Cargo.lock
+
+# Haskell specific
+/dist-newstyle/
+/cabal.sandbox.config
+/cabal.sandbox.config.lock
+/cabal.project.local
+*.hi
+*.o
+*.dyn_o
+*.dyn_hi
+*.prof
+*.aux
+*.hp
+*.eventlog
+*.tix
+*.prof
+*.hpc
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Dependency directories
+/node_modules/
+/bower_components/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Byebug
+.byebug_history
+
+# dotenv environment variables file
+.env
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
