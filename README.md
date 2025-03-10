@@ -63,4 +63,4 @@ inventory-system/
 5. Buat pull request baru.
 
 ## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](./LICENSE).
+Proyek ini dilisensikan di bawah [MIT License](./LICENSE).# inventory-system
